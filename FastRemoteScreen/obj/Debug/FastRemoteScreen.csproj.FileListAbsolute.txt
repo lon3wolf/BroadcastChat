@@ -1,0 +1,17 @@
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\FastRemoteScreen.csproj.GenerateResource.Cache
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\FastChat.ChatWindow.resources
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\bin\Debug\FastChat.exe
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\bin\Debug\FastChat.pdb
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\FastChat.Properties.Resources.resources
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\FastChat.exe
+C:\Users\Sanil\Documents\Visual Studio 2008\Projects\FastRemoteScreen\FastRemoteScreen\obj\Debug\FastChat.pdb
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\FastChat.exe
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\FastChat.pdb
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\bin\Debug\FastChat.exe
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\bin\Debug\FastChat.pdb
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\FastChat.ChatWindow.resources
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\FastChat.Properties.Resources.resources
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\obj\Debug\FastRemoteScreen.csproj.GenerateResource.Cache
+J:\Projects\dotNET\MyProjects\FastChat\FastRemoteScreen\bin\Debug\FastChat.exe.config
