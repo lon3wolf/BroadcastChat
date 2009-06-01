@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FastChat.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your Name</Value>
+    </Setting>
+    <Setting Name="AllowNotifications" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NotificationSound" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="About" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Xinx Broadcast Chat by Sanil (http://projects-sanil.co.cc)
+
+XBC is an application for LAN Chatting. Its just not a dumb messenger, it allows many facilities like user presence detection, Asking questions etc.
+
+XBC is open source under MS-PL license. To read more about it go to http://www.codeplex.com/XBC
+
+Project Contributors:
+1. Sanil Singh Tomar (sanil.sun@gmail.com)
+2. Roman Alifanov (animaonline@gmail.com)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
